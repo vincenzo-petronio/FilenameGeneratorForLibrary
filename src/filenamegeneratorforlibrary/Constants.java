@@ -22,7 +22,7 @@ public class Constants {
     //  ADD Check empty fields
     // ### 1.0.2.0 ###
     //  Prima RC funzionante.
-    public static final String VERSION = "v" + "1.1.3.0";
+    public static final String VERSION = "v" + "1.1.3.1";
 
     public static final String APP_TITLE = "Filename Generator for Library";
     public static final String TOOLTIP_TEXTBEFORE = "Filename before renaming";
